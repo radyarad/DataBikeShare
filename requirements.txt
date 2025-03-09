@@ -1,1 +1,5 @@
 streamlit
+NumPy
+Matplotlib
+Seaborn
+Pandas
