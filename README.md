@@ -29,4 +29,4 @@ Dataset yang digunakan adalah `day.csv` dan `hour.csv`.
    pip install -r requirements.txt
 2. **Jalankan Streamlit App**
    ```bash
-   streamlit run main.py
+   streamlit run analisis.py
