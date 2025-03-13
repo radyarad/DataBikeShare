@@ -4,8 +4,8 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load dataset
-day_df = pd.read_csv("day.csv", delimiter=",")
-hour_df = pd.read_csv("hour.csv", delimiter=",")
+day_df = pd.read_csv(https://github.com/radyarad/DataBikeShare/blob/45c1f11ea1d71c64dc48a161db1a74775f880326/day.csv)
+hour_df = pd.read_csv(https://github.com/radyarad/DataBikeShare/blob/45c1f11ea1d71c64dc48a161db1a74775f880326/hour.csv)
 
 # Convert season to categorical
 season_temp_day = {1: 'spring', 2: 'summer', 3: 'fall', 4: 'winter'}
